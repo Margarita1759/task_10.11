@@ -72,7 +72,7 @@ const display = (arr) => {
 };
 
 // первая отрисовка карточек
-display();
+display(fruits);
 
 /*** ПЕРЕМЕШИВАНИЕ ***/
 
